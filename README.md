@@ -1,3 +1,6 @@
+https://learning.kasten.io/kubernetes/labs/first-kubernetes-cluster/lessons/lab-1/#lab
+
+
 [![Build Status](https://travis-ci.org/microservices-demo/microservices-demo.svg?branch=master)](https://travis-ci.org/microservices-demo/microservices-demo)
 
 # Sock Shop : A Microservice Demo Application
